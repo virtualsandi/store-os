@@ -249,14 +249,7 @@ Building this project gave me hands-on experience with:
 
 ---
 
-## About
 
-Built by **Sudip Khatiwada** — a CS student from Nepal passionate about building real products that solve real problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudipkhatiwada)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github)](https://github.com/ksudip17)
-
----
 
 <div align="center">
   <sub>Built with Next.js · Supabase · Groq AI · Deployed on Vercel · Made in Nepal 🇳🇵</sub>
